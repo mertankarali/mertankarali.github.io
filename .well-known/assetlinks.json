@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.mertankarali.pronunciationlab",
+    "sha256_cert_fingerprints": [
+      "AE:3B:84:E2:EF:34:27:D0:9B:5B:BB:A0:4C:47:B6:B8:73:9A:EE:EE:28:F2:BA:6D:1C:59:66:72:3A:0E:D1:CF"
+    ]
+  }
+}]
